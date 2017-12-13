@@ -6,6 +6,6 @@ These are files created by the Monticello package manager. To import this reposi
 instance of Smalltalk, clone this git repository to your computer as you would any other. Then 
 use Monticello to import the packages into your Smalltalk image.
 
-This is an example of placing version controled files in more version control. This is done due 
-to the fact that Pharo's native git integratino solution, Iceberg, is still unsatisfactory, and
+This is an example of placing version controled files in more version control. This is due 
+to the fact that Pharo's native git integration tool, Iceberg, is still unsatisfactory, and
 GitHub is prefered over SmalltalkHub for source distribution.
